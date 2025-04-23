@@ -1,18 +1,18 @@
+<!-- yourdomain.com/report.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Fragmentation Dashboard</title>
+  <title>My Dashboard</title>
   <style>
-    html, body {
+    body {
       margin: 0;
-      padding: 0;
-      height: 100%;
+      height: 100vh;
     }
     iframe {
+      border: none;
       width: 100%;
       height: 100%;
-      border: none;
     }
   </style>
 </head>
