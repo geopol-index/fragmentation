@@ -1,9 +1,8 @@
-<!-- yourdomain.com/report.html -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Dashboard</title>
+  <title>Fragmentation Dashboard</title>
   <style>
     body {
       margin: 0;
@@ -17,9 +16,6 @@
   </style>
 </head>
 <body>
-<iframe 
-  src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF"
-  allowfullscreen>
-</iframe>
+  <iframe src="https://lookerstudio.google.com/embed/reporting/b58b755d-af92-4d88-9779-0fd2e83f8597/page/kozHF" allowfullscreen></iframe>
 </body>
 </html>
