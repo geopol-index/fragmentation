@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Fragmentation Dashboard</title>
   <style>
     html, body {
       margin: 0;
