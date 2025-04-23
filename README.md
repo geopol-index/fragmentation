@@ -8,6 +8,7 @@
       height: 100%;
       width: 100%;
       overflow: hidden;
+  background-color: #0d1117;
     }
     iframe {
       position: absolute;
