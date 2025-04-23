@@ -4,18 +4,29 @@
   <meta charset="UTF-8">
   <title>Fragmentation Dashboard</title>
   <style>
-    body {
+    html, body {
       margin: 0;
-      height: 100vh;
+      padding: 0;
+      height: 100%;
+      width: 100%;
+      overflow: hidden;
     }
     iframe {
-      border: none;
+      position: absolute;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
       width: 100%;
       height: 100%;
+      border: none;
     }
   </style>
 </head>
 <body>
-  <iframe src="https://lookerstudio.google.com/embed/reporting/b58b755d-af92-4d88-9779-0fd2e83f8597/page/kozHF" allowfullscreen></iframe>
+  <iframe
+    src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF"
+    allowfullscreen>
+  </iframe>
 </body>
 </html>
