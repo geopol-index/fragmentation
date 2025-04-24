@@ -1,8 +1,6 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Geopolitical Fragmentation Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     html, body {
@@ -39,7 +37,6 @@
   </style>
 </head>
 <body>
-  <div class="header">Geopolitical Fragmentation Dashboard</div>
   <div class="iframe-container">
     <iframe src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF" allowfullscreen></iframe>
   </div>
