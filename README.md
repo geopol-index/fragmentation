@@ -1,21 +1,27 @@
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Fragmentation Index</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- ✅ Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
     html, body {
       margin: 0;
       padding: 0;
       background-color: white;
       color: black;
-      font-family: sans-serif;
+      font-family: 'Inter', sans-serif;
     }
 
     .header {
       padding: 2rem 1rem;
       text-align: center;
       font-size: 1.75rem;
-      font-weight: bold;
+      font-weight: 600;
     }
 
     section {
@@ -27,6 +33,7 @@
     h2 {
       text-align: center;
       margin-bottom: 1rem;
+      font-weight: 600;
     }
 
     .iframe-fixed {
@@ -50,12 +57,6 @@
     <h2>Fragmentation Index</h2>
     <iframe
       class="iframe-fixed"
-      src="https://lookerstudio.google.com/embed/reporting/0ca24dc7-dfc7-4018-96f4-7d57b129a872/page/gN8HF"
-      allowfullscreen>
-    </iframe>
-  </section>
-
-</body>
-</html>
+      src="https://lookerstudio.google.com/embed/reporting/0ca24dc7-dfc7-4018-96f4-7d57b129a872/page/gN
 
 
