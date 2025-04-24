@@ -52,7 +52,7 @@
     <h2>Fragmentation Index</h2>
     <iframe
       class="iframe-fixed"
-      src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF"
+      src="https://lookerstudio.google.com/embed/reporting/0ca24dc7-dfc7-4018-96f4-7d57b129a872/page/gN8HF"
       allowfullscreen>
     </iframe>
   </section>
