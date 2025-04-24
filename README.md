@@ -58,14 +58,14 @@
   <section>
     <h2>Trade Fragmentation</h2>
     <div class="iframe-container">
-      <iframe src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF" allowfullscreen></iframe>
+      <iframe src="https://lookerstudio.google.com/u/2/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF" allowfullscreen></iframe>
     </div>
   </section>
 
   <section>
     <h2>Financial Fragmentation</h2>
     <div class="iframe-container">
-      <iframe src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/p_u6dg9favrd" allowfullscreen></iframe>
+      <iframe src="https://lookerstudio.google.com/u/2/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/p_u6dg9favrd" allowfullscreen></iframe>
     </div>
   </section>
 
