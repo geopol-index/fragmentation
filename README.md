@@ -1,8 +1,7 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Geopolitical Fragmentation Index Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     html, body {
@@ -48,7 +47,6 @@
 </head>
 <body>
 
-  <div class="header">Geopolitical Fragmentation Index Dashboard</div>
 
   <section>
     <h2>Trade Fragmentation</h2>
