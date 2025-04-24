@@ -49,7 +49,7 @@
 
 
   <section>
-    <h2>Trade Fragmentation</h2>
+    <h2>Fragmentation Index</h2>
     <iframe
       class="iframe-fixed"
       src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF"
@@ -57,16 +57,7 @@
     </iframe>
   </section>
 
-  <section>
-    <h2>Financial Fragmentation</h2>
-    <iframe
-      class="iframe-fixed"
-      src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/p_u6dg9favrd"
-      allowfullscreen>
-    </iframe>
-  </section>
 
-  <!-- Add more sections below with other embed links if needed -->
 
 </body>
 </html>
