@@ -1,7 +1,8 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Geopolitical Fragmentation Index</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     html, body {
@@ -32,21 +33,20 @@
 
     .iframe-fixed {
       width: 100%;
-      height: 800px; /* Fixed height to eliminate scrollbars */
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      box-shadow: 0 0 12px rgba(0,0,0,0.1);
+      height: 800px;
+      border: none;
+      border-radius: 0;
+      box-shadow: none;
     }
 
     @media screen and (max-width: 768px) {
       .iframe-fixed {
-        height: 600px; /* Shorter on small devices */
+        height: 600px;
       }
     }
   </style>
 </head>
 <body>
-
 
   <section>
     <h2>Fragmentation Index</h2>
@@ -56,8 +56,6 @@
       allowfullscreen>
     </iframe>
   </section>
-
-
 
 </body>
 </html>
