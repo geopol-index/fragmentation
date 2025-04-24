@@ -14,12 +14,6 @@
       font-family: Arial, sans-serif;
     }
 
-    .header {
-      padding: 2rem 1rem;
-      font-size: 1.75rem;
-      font-weight: bold;
-    }
-
     section {
       max-width: 960px;
       margin: 0 auto;
@@ -46,17 +40,52 @@
         height: 600px;
       }
     }
+
+    .justify {
+      text-align: justify;
+      font-size: 15px;
+      line-height: 1.6;
+    }
+
+    .section-title {
+      font-size: 20px;
+      font-weight: bold;
+      margin-bottom: 1rem;
+    }
+
+    a {
+      color: #0066cc;
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body>
 
+  <!-- Fragmentation Index Section -->
   <section>
     <h2>Fragmentation Index</h2>
     <iframe
       class="iframe-fixed"
-      src="https://lookerstudio.google.com/u/2/reporting/d0aa05bf-dc22-4b8d-8658-02daf449aaa3/page/kt8HF"
+      src="https://lookerstudio.google.com/embed/reporting/d0aa05bf-dc22-4b8d-8658-02daf449aaa3/page/kt8HF"
       allowfullscreen>
     </iframe>
+  </section>
+
+  <!-- Description Section -->
+  <section>
+    <div class="section-title">Description</div>
+    <div class="justify">
+      The Geopolitical Fragmentation Index is estimated using a dynamic hierarchical factor model that treats fragmentation as a set of latent variables. Combining 16 widely used empirical indicators as noisy proxies, the model captures both the specific forces driving fragmentation—across trade, finance, mobility, and politics—and the broader trends shared across these dimensions, yielding an operational measure of geopolitical fragmentation.
+    </div>
+  </section>
+
+  <!-- Resource Section -->
+  <section>
+    <div class="section-title">Resource</div>
+    <div class="justify">
+      Index: <a target="_blank" href="https://docs.google.com/spreadsheets/d/1W8IJOLrR-WkXguIgIslBfWw-A5vz5Qs6SrHPwT68kCo/edit?usp=sharing">Download spreadsheet (CSV)</a><br><br>
+      Paper: <a target="_blank" href="https://www.sas.upenn.edu/~jesusfv/Fragmentation.pdf">Are We Fragmented Yet? Measuring Geopolitical Fragmentation and Its Causal Effect</a>, 2024, Jesús Fernández-Villaverde, Tomohide Mineyama, Dongho Song
+    </div>
   </section>
 
 </body>
