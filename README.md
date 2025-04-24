@@ -1,6 +1,8 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
+  <title>Geopolitical Fragmentation Index Dashboard</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <style>
     html, body {
@@ -57,7 +59,7 @@
   <section>
     <h2>Trade Fragmentation</h2>
     <div class="iframe-container">
-      <iframe src="https://lookerstudio.google.com/u/2/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF" allowfullscreen></iframe>
+      <iframe src="https://lookerstudio.google.com/embed/reporting/8c92f986-d3b2-4bb7-a839-267912190484/page/1n0HF" allowfullscreen></iframe>
     </div>
   </section>
 
@@ -68,22 +70,6 @@
     </div>
   </section>
 
-  <!-- OPTIONAL: Add more charts below -->
-  <!--
-  <section>
-    <h2>Mobility Fragmentation</h2>
-    <div class="iframe-container">
-      <iframe src="..." allowfullscreen></iframe>
-    </div>
-  </section>
-
-  <section>
-    <h2>Political Fragmentation</h2>
-    <div class="iframe-container">
-      <iframe src="..." allowfullscreen></iframe>
-    </div>
-  </section>
-  -->
-
 </body>
 </html>
+
